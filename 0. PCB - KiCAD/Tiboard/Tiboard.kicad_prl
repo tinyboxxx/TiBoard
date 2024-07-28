@@ -3,10 +3,12 @@
     "active_layer": 0,
     "active_layer_preset": "All Copper Layers",
     "auto_track_width": false,
+    "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
+      "images": 0.6,
       "pads": 0.3799999952316284,
       "tracks": 0.6600000262260437,
       "vias": 0.4399999976158142,
@@ -64,6 +66,12 @@
     ],
     "visible_layers": "0001000_ffffffff",
     "zone_display_mode": 1
+  },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "Tiboard.kicad_prl",
