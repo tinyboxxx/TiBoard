@@ -78,6 +78,31 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "Tiboard.kicad_sch",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": -9,
+          "pos_y": 0,
+          "size_x": 1938,
+          "size_y": 2097
+        }
+      },
+      {
+        "name": "Tiboard.kicad_pcb",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": -11,
+          "pos_y": -11,
+          "size_x": 3862,
+          "size_y": 2110
+        }
+      }
+    ]
   }
 }

@@ -1,6 +1,4 @@
 (sym_lib_table
-  (lib (name "SofleKeyboard-cache")(type "Legacy")(uri "${KIPRJMOD}/SofleKeyboard-cache.lib")(options "")(descr "")(disabled))
-  (lib (name "SofleKeyboard-rescue")(type "KiCad")(uri "${KIPRJMOD}/SofleKeyboard-rescue.kicad_sym")(options "")(descr ""))
-  (lib (name "SofleKeyboard")(type "KiCad")(uri "${KIPRJMOD}/SofleKeyboard.kicad_sym")(options "")(descr ""))
-  (lib (name "Tiboard")(type "KiCad")(uri "${KIPRJMOD}/Tiboard.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "0_Tiboard")(type "KiCad")(uri "${KIPRJMOD}/Tiboard.kicad_sym")(options "")(descr ""))
 )

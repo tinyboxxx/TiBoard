@@ -1,0 +1,120 @@
+(footprint "NICEVIEW_5Pin"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Connecteur 6 pins")
+	(tags "CONN DEV")
+	(property "Reference" "J3"
+		(at -1.915 1.93 90)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "8dd81648-430f-4328-9784-c8d9aad7b841")
+		(effects
+			(font
+				(size 0.8128 0.8128)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "NICEVIEW"
+		(at 4.4 1.8 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "02c43930-2c0e-49d9-b811-155189160739")
+		(effects
+			(font
+				(size 0.8128 0.8128)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "NICEVIEW_5Pin"
+		(at 3.4 -2.7 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7fe0b2ac-cdb6-43b2-bd90-ae2aabe459c0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a932361a-f235-4820-b956-e84f15b4133a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3f01f763-bdf1-4247-b858-4a0693f7c0e9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.397 1.397)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Adhes" "*.Paste" "*.SilkS" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1f1e1f50-1ddd-40fb-9a0a-a43d3501dfbb")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 0)
+		(size 1.397 1.397)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Adhes" "*.Paste" "*.SilkS" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cd2e5225-5247-4632-9c13-2a6002e60f81")
+	)
+	(pad "3" thru_hole circle
+		(at 5.08 0)
+		(size 1.397 1.397)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Adhes" "*.Paste" "*.SilkS" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7537aea0-b388-442a-aef3-c0c533ab4f03")
+	)
+	(pad "4" thru_hole circle
+		(at 7.62 0)
+		(size 1.397 1.397)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Adhes" "*.Paste" "*.SilkS" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "eb13127b-57f4-40ae-92df-580d5eb114d3")
+	)
+	(pad "5" thru_hole circle
+		(at 10.16 0)
+		(size 1.397 1.397)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Adhes" "*.Paste" "*.SilkS" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "338f5bc0-5764-49ba-8eba-df2092eb93ce")
+	)
+	(model "${KIPRJMOD}/Tiboard.pretty/3d/Nice!View v1.step"
+		(offset
+			(xyz 4.2 17.6 4.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
+)

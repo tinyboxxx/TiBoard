@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 35,
+    "active_layer": 34,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -65,7 +65,7 @@
       39,
       40
     ],
-    "visible_layers": "0001010_ffffffff",
+    "visible_layers": "0001030_ffffffff",
     "zone_display_mode": 1
   },
   "git": {
@@ -82,26 +82,26 @@
     "files": [
       {
         "name": "Tiboard-v2.1.kicad_sch",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": -9,
+          "pos_y": 0,
+          "size_x": 1938,
+          "size_y": 2097
+        }
+      },
+      {
+        "name": "Tiboard-v2.1.kicad_pcb",
         "open": false,
         "window": {
           "display": 0,
           "maximized": false,
           "pos_x": -9,
           "pos_y": 0,
-          "size_x": 2991,
+          "size_x": 1938,
           "size_y": 2097
-        }
-      },
-      {
-        "name": "Tiboard-v2.1.kicad_pcb",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": -11,
-          "pos_y": -11,
-          "size_x": 3862,
-          "size_y": 2110
         }
       }
     ]

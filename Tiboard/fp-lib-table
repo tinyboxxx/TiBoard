@@ -1,6 +1,4 @@
 (fp_lib_table
-  (lib (name "myboard")(type "KiCad")(uri "${KIPRJMOD}/Tiboard.pretty")(options "")(descr ""))
-  (lib (name "nrfmicro")(type "KiCad")(uri "Z:/ProjectsNew/20220412-Tiboard/DEL-OLD/nrfboard/nrfmicro.pretty")(options "")(descr ""))
-  (lib (name "SofleKeyboard-footprint")(type "KiCad")(uri "Z:/ProjectsNew/20220412-Tiboard/DEL-OLD/download/SofleKeyboard-master/footprints/SofleKeyboard-footprint.pretty")(options "")(descr ""))
-  (lib (name "Keebio-Parts")(type "KiCad")(uri "Z:/ProjectsNew/20220412-Tiboard/DEL-OLD/download/SofleKeyboard-master/footprints/Keebio-Parts.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "0_Tiboard")(type "KiCad")(uri "${KIPRJMOD}/Tiboard.pretty")(options "")(descr ""))
 )
