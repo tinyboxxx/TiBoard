@@ -82,11 +82,11 @@
     "files": [
       {
         "name": "Tiboard-v2.1.kicad_sch",
-        "open": true,
+        "open": false,
         "window": {
           "display": 0,
           "maximized": false,
-          "pos_x": -9,
+          "pos_x": 1911,
           "pos_y": 0,
           "size_x": 1938,
           "size_y": 2097
